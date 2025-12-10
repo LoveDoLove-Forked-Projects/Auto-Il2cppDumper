@@ -1,11 +1,11 @@
 # Auto-Il2cppDumper
 Il2CppDumper without Magisk/Zygisk, dump il2cpp data at runtime, can bypass protection, encryption and obfuscation.
 
-This project is based on BrianGIG [Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper) which I continue to maintain it
+This project is forked from BrianGIG [Auto-Il2cppDumper](https://github.com/BryanGIG/Auto-Il2cppDumper)
 
-# NO support
+# Discontined
 
-Due to the variety and complexity of protection and encryption methods utilized by many games, I cannot offer support or assistance for this project. Consequently, the Issues section is closed. Currently, only Pull Requests are being accepted. Please refrain from contacting me privately or creating unrelated issues on my other projects.
+This project is no longer maintained. Due to the increasing variety and complexity of game protection and encryption methods, I have chosen to discontinue development. There are no plans for future commits, releases, or support.
 
 # How to use
 Download pre-compiled libs [HERE](https://github.com/AndnixSH/Auto-Il2cppDumper/releases) and follow steps below
